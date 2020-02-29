@@ -13,6 +13,16 @@ Used programming languages:
 • HTML
 • W3.CSS
 
+Sample Account:
+- Admin
+1. admin:admin
+2. admin02:admin02
+
+- Customer
+1. customer01:pass01
+2. customer02:pass02
+3. customer03:pass03
+
 The application is minimum viable product of a pub ordering system. The application contains functions of: multiple login(customer/admin), product purchases and order histories for the customers, product create/read/update/delete(CRUD) and full view of user order histories.
 
 All data go through a API controller from the server-side and pass to the client-side, processes by jQuery(Ajax), then display on razor(.cshtml) pages.
